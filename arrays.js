@@ -6,6 +6,8 @@ let allScores = [
     [90,90,94]
 ];
 
+console.log(`Student Scores: ${allScores}`);
+
 // Challenge 2
 
 let theaterSeating = [
@@ -14,9 +16,13 @@ let theaterSeating = [
     ["C1","C2","C3","C4"]
 ];
 
+console.log(`Theater Seating: ${theaterSeating}`);
+
 // Challenge 3
 
 let contactsList = [
     ["Alice", "alice@example.com", "1234567891"],
     ["Bob", "bob@example.com", "2345678902"]
 ];
+
+console.log(`Contacts List: ${contactsList}`);
