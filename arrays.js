@@ -6,10 +6,17 @@ let allScores = [
     [90,90,94]
 ];
 
-//Challenge 2
+// Challenge 2
 
 let theaterSeating = [
     ["A1","A2","A3","A4"],
     ["B1","B2","B3","B4"],
     ["C1","C2","C3","C4"]
+];
+
+// Challenge 3
+
+let contactsList = [
+    ["Alice", "alice@example.com", "1234567891"],
+    ["Bob", "bob@example.com", "2345678902"]
 ];
